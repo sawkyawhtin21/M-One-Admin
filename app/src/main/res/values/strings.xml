@@ -9,4 +9,5 @@
     <string name="str_edit">Edit</string>
     <string name="str_delete">Delete</string>
     <string name="request_str">Requests</string>
+    <string name="live_tv_str">livetv</string>
 </resources>
